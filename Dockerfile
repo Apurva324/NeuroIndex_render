@@ -8,7 +8,11 @@ COPY requirements.txt .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY --chown=user:user . .
+COPY . .
+
+# Create writable directories for the application
+RUN mkdir -p /home/user/app/data \
+    && chown -R user:user /home/user/app
 
 USER user
 
