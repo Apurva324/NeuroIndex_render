@@ -1,0 +1,4 @@
+numpy
+groq
+fastembed
+python-dotenv

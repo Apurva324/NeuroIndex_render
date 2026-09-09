@@ -1,0 +1,1052 @@
+[
+  {
+    "question": "What is a binary search tree?",
+    "relevant_ids": [
+      1
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What happens to smaller values in a binary search tree?",
+    "relevant_ids": [
+      1
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the time complexity of searching a balanced binary search tree?",
+    "relevant_ids": [
+      1
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is a linked list?",
+    "relevant_ids": [
+      2
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the difference between singly and doubly linked lists?",
+    "relevant_ids": [
+      2
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the time complexity of accessing an arbitrary element in a linked list?",
+    "relevant_ids": [
+      2
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How does breadth-first search traverse a graph?",
+    "relevant_ids": [
+      3
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Which graph traversal uses a queue and explores level by level?",
+    "relevant_ids": [
+      3
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the time complexity of BFS and DFS?",
+    "relevant_ids": [
+      3
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is dynamic programming?",
+    "relevant_ids": [
+      4
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the difference between memoization and tabulation?",
+    "relevant_ids": [
+      4
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Why does dynamic programming avoid recomputing subproblems?",
+    "relevant_ids": [
+      4
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What are common sorting algorithms?",
+    "relevant_ids": [
+      5
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the average time complexity of quicksort?",
+    "relevant_ids": [
+      5
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Which sorting algorithm guarantees O(n log n) time?",
+    "relevant_ids": [
+      5
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is supervised learning?",
+    "relevant_ids": [
+      6
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the difference between classification and regression?",
+    "relevant_ids": [
+      6
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What type of data is used to train supervised learning models?",
+    "relevant_ids": [
+      6
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "relevant_ids": [
+      7
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is clustering used for?",
+    "relevant_ids": [
+      7
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Which machine learning approach works without explicit target labels?",
+    "relevant_ids": [
+      7
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is logistic regression used for?",
+    "relevant_ids": [
+      8
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How does the sigmoid function work in logistic regression?",
+    "relevant_ids": [
+      8
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Why is logistic regression useful for binary classification?",
+    "relevant_ids": [
+      8
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How does a decision tree make predictions?",
+    "relevant_ids": [
+      9
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What measures can be used to choose splits in a decision tree?",
+    "relevant_ids": [
+      9
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How can overfitting in decision trees be reduced?",
+    "relevant_ids": [
+      9
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is a neural network?",
+    "relevant_ids": [
+      10
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How does backpropagation train a neural network?",
+    "relevant_ids": [
+      10
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What are the typical layers of a neural network?",
+    "relevant_ids": [
+      10
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What does linear algebra study?",
+    "relevant_ids": [
+      11
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Why are vectors and matrices important in machine learning?",
+    "relevant_ids": [
+      11
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What are eigenvalues and eigenvectors used to describe?",
+    "relevant_ids": [
+      11
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is probability?",
+    "relevant_ids": [
+      12
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is conditional probability?",
+    "relevant_ids": [
+      12
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Why is probability useful in machine learning?",
+    "relevant_ids": [
+      12
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the difference between descriptive and inferential statistics?",
+    "relevant_ids": [
+      13
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What measures can summarize a dataset?",
+    "relevant_ids": [
+      13
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What are confidence intervals used for?",
+    "relevant_ids": [
+      13
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is calculus used for in machine learning?",
+    "relevant_ids": [
+      14
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What does a derivative measure?",
+    "relevant_ids": [
+      14
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Why are gradients important when training neural networks?",
+    "relevant_ids": [
+      14
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What are common matrix operations?",
+    "relevant_ids": [
+      15
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "When can two matrices be multiplied?",
+    "relevant_ids": [
+      15
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Why are matrix operations important in machine learning?",
+    "relevant_ids": [
+      15
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is a KD-tree?",
+    "relevant_ids": [
+      16
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How does a KD-tree organize multidimensional points?",
+    "relevant_ids": [
+      16
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "When are KD-trees effective for nearest-neighbor search?",
+    "relevant_ids": [
+      16
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is BM25?",
+    "relevant_ids": [
+      17
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What factors does BM25 use to rank documents?",
+    "relevant_ids": [
+      17
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How does BM25 account for document length?",
+    "relevant_ids": [
+      17
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is vector search?",
+    "relevant_ids": [
+      18
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How are embeddings used in vector search?",
+    "relevant_ids": [
+      18
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What similarity measures can be used for vector search?",
+    "relevant_ids": [
+      18
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is hybrid search?",
+    "relevant_ids": [
+      19
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Why combine vector search with BM25?",
+    "relevant_ids": [
+      19
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the advantage of combining semantic and lexical retrieval?",
+    "relevant_ids": [
+      19
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is Reciprocal Rank Fusion?",
+    "relevant_ids": [
+      20
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How does RRF combine ranked result lists?",
+    "relevant_ids": [
+      20
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "Why is Reciprocal Rank Fusion useful for hybrid retrieval?",
+    "relevant_ids": [
+      20
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is pizza typically made from?",
+    "relevant_ids": [
+      21
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What ingredients are commonly used as pizza toppings?",
+    "relevant_ids": [
+      21
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is characteristic of Neapolitan-style pizza?",
+    "relevant_ids": [
+      21
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is sushi?",
+    "relevant_ids": [
+      22
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the difference between nigiri and maki?",
+    "relevant_ids": [
+      22
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What type of rice is central to sushi?",
+    "relevant_ids": [
+      22
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is pasta?",
+    "relevant_ids": [
+      23
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What are some common shapes of pasta?",
+    "relevant_ids": [
+      23
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What sauces are commonly served with pasta?",
+    "relevant_ids": [
+      23
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is Indian curry?",
+    "relevant_ids": [
+      24
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What spices are commonly used in Indian curry?",
+    "relevant_ids": [
+      24
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How do Indian curry recipes vary between regions?",
+    "relevant_ids": [
+      24
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What ingredients are used to make chocolate cake?",
+    "relevant_ids": [
+      25
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What are some ways to finish or decorate chocolate cake?",
+    "relevant_ids": [
+      25
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How can chocolate cake textures differ?",
+    "relevant_ids": [
+      25
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is cricket?",
+    "relevant_ids": [
+      26
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What are the main formats of cricket?",
+    "relevant_ids": [
+      26
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the purpose of the pitch in cricket?",
+    "relevant_ids": [
+      26
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is football?",
+    "relevant_ids": [
+      27
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How many players are on a football team?",
+    "relevant_ids": [
+      27
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the main objective in football?",
+    "relevant_ids": [
+      27
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is basketball?",
+    "relevant_ids": [
+      28
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "How do players score points in basketball?",
+    "relevant_ids": [
+      28
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What skills are used to move the ball in basketball?",
+    "relevant_ids": [
+      28
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is tennis?",
+    "relevant_ids": [
+      29
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the difference between singles and doubles tennis?",
+    "relevant_ids": [
+      29
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What are the basic scoring units in tennis?",
+    "relevant_ids": [
+      29
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What are the Olympic Games?",
+    "relevant_ids": [
+      30
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What is the difference between the Summer and Winter Olympic Games?",
+    "relevant_ids": [
+      30
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "What do athletes compete for at the Olympic Games?",
+    "relevant_ids": [
+      30
+    ],
+    "category": "keyword"
+  },
+  {
+    "question": "In a structure where every node branches into at most two paths, how are smaller and larger values arranged relative to a node?",
+    "relevant_ids": [
+      1
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I need a way to keep a sorted phonebook fast to search even as entries are added, what should I use?",
+    "relevant_ids": [
+      1
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "Describe a sequence of connected records where each entry points to the following one.",
+    "relevant_ids": [
+      2
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I'm building a playlist where songs are constantly inserted or removed from the middle, but I rarely jump straight to song number 50, what structure fits?",
+    "relevant_ids": [
+      2
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "Which network exploration method visits neighbors ring by ring using a first-in first-out queue?",
+    "relevant_ids": [
+      3
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I want the shortest number of hops between two people in a social network with no weighted connections, what technique applies?",
+    "relevant_ids": [
+      3
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What technique avoids redoing identical smaller calculations by caching their results?",
+    "relevant_ids": [
+      4
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "My recursive Fibonacci function is painfully slow because it repeats the same work over and over, how do I speed it up?",
+    "relevant_ids": [
+      4
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "Which method guarantees n log n performance for arranging a list but needs extra memory?",
+    "relevant_ids": [
+      5
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I need to alphabetize a huge list of names, extra RAM is fine, but I need a guaranteed worst-case time bound, what should I pick?",
+    "relevant_ids": [
+      5
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What kind of model training uses examples that already have known correct answers attached?",
+    "relevant_ids": [
+      6
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I have a spreadsheet of houses with their sale prices and want to predict the price of a new house, what approach fits?",
+    "relevant_ids": [
+      6
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "How does a model find structure in data when no correct answers are provided?",
+    "relevant_ids": [
+      7
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I have a pile of customer purchase records with no labels and want to discover natural groupings among shoppers, what helps?",
+    "relevant_ids": [
+      7
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "Which simple algorithm squashes a weighted sum of inputs into a probability for a yes-or-no outcome?",
+    "relevant_ids": [
+      8
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I want a simple, interpretable baseline to predict whether an email is spam, what should I try first?",
+    "relevant_ids": [
+      8
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What model makes predictions by repeatedly asking yes-or-no questions about feature values?",
+    "relevant_ids": [
+      9
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I need a model I can explain to a non-technical manager as a flowchart of if-then rules, what fits?",
+    "relevant_ids": [
+      9
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What layered architecture of artificial neurons adjusts its internal weights using gradients from backpropagation?",
+    "relevant_ids": [
+      10
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I need a model that recognizes handwritten digits from thousands of pixel images, what usually works well?",
+    "relevant_ids": [
+      10
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "Which mathematical field deals with vectors, matrices, and solving systems of linear equations?",
+    "relevant_ids": [
+      11
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I keep seeing eigenvalues and matrix decomposition in machine learning papers, what branch of math do I need to study?",
+    "relevant_ids": [
+      11
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What field gives tools for reasoning mathematically about uncertain or random events?",
+    "relevant_ids": [
+      12
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I want to calculate the chance it rains given that it was cloudy this morning, what area of math handles that?",
+    "relevant_ids": [
+      12
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "Which discipline summarizes datasets and draws conclusions about a population from a sample?",
+    "relevant_ids": [
+      13
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I surveyed 200 people, can I trust that this predicts what all 10,000 employees think? What field of study helps answer that?",
+    "relevant_ids": [
+      13
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What branch of mathematics studies rates of change and area accumulation?",
+    "relevant_ids": [
+      14
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "Training a neural network requires computing gradients to adjust weights, what math underlies that process?",
+    "relevant_ids": [
+      14
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What operations let you combine rows and columns of numeric tables to produce a new table?",
+    "relevant_ids": [
+      15
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I have two grids of numbers and need to combine rows from one with columns from the other, what operation do I need?",
+    "relevant_ids": [
+      15
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What structure partitions points across multiple dimensions to speed up nearest-neighbor lookups?",
+    "relevant_ids": [
+      16
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I have a set of 2D GPS coordinates and want to quickly find the closest point to a given location, what structure could help?",
+    "relevant_ids": [
+      16
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "Which classic scoring function ranks documents using term frequency and rarity while adjusting for length?",
+    "relevant_ids": [
+      17
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I'm building an old-school keyword search engine and want a proven ranking formula that doesn't need embeddings, what should I use?",
+    "relevant_ids": [
+      17
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "How do systems find similar items by comparing numerical representations in a high-dimensional space?",
+    "relevant_ids": [
+      18
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I converted my documents into embeddings and now want to find the ones closest in meaning to a new query, what technique applies?",
+    "relevant_ids": [
+      18
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What approach blends semantic similarity retrieval with traditional keyword matching for better results?",
+    "relevant_ids": [
+      19
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "My search misses rare product codes when using embeddings alone, but keyword search misses paraphrased queries, how do I get both?",
+    "relevant_ids": [
+      19
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What method merges several ranked lists by weighting documents based on their position in each list?",
+    "relevant_ids": [
+      20
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I have two separate ranked result lists from different retrieval systems and want to merge them fairly, what technique fits?",
+    "relevant_ids": [
+      20
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What baked dish starts with a flattened dough base covered in sauce, cheese, and other toppings?",
+    "relevant_ids": [
+      21
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I want to make a traditional Italian dish with a thin soft crust, tomatoes, mozzarella and basil, what am I making?",
+    "relevant_ids": [
+      21
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What Japanese dish is built around seasoned rice combined with seafood or vegetables and often wrapped in seaweed?",
+    "relevant_ids": [
+      22
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I'm hand-forming rice and topping it with a slice of fish, versus rolling rice and fillings in nori, what cuisine is this?",
+    "relevant_ids": [
+      22
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What food made from flour and water or eggs comes in many shapes and is often paired with sauce?",
+    "relevant_ids": [
+      23
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I'm boiling long thin strands of wheat dough and topping them with a tomato-based sauce, what dish is this?",
+    "relevant_ids": [
+      23
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What family of spiced dishes varies widely by region and often uses cumin, turmeric, and garam masala?",
+    "relevant_ids": [
+      24
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I'm cooking a dish with a base of onions, tomatoes, and yogurt, seasoned heavily with regional spice blends, what style is this?",
+    "relevant_ids": [
+      24
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What dessert is baked using cocoa alongside flour, sugar, eggs and butter, then finished with frosting?",
+    "relevant_ids": [
+      25
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I want to bake a rich dessert built around cocoa and finish it with ganache, what should I make?",
+    "relevant_ids": [
+      25
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What bat-and-ball sport has two teams, where one tries to score runs while the other tries to get batters out?",
+    "relevant_ids": [
+      26
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "I'm watching a match where a bowler delivers a ball down a central pitch strip toward someone holding a bat, what sport is this?",
+    "relevant_ids": [
+      26
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "In which team sport do eleven players per side try to put a ball into a goal mostly without using their hands?",
+    "relevant_ids": [
+      27
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "Two teams of eleven are trying to score by kicking a ball into a net, only the goalkeeper can use hands, what sport is this?",
+    "relevant_ids": [
+      27
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What team sport involves shooting a ball through an elevated hoop to score points?",
+    "relevant_ids": [
+      28
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "Players are dribbling and passing a ball down a court trying to shoot it through a raised hoop, what sport is being played?",
+    "relevant_ids": [
+      28
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What racket sport has players hitting a ball over a net, trying to land it inside the opponent's boundary?",
+    "relevant_ids": [
+      29
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "Two opponents are hitting a ball back and forth over a net with rackets, scoring is counted in games and sets, what sport is this?",
+    "relevant_ids": [
+      29
+    ],
+    "category": "scenario"
+  },
+  {
+    "question": "What international competition brings together athletes from many nations across a wide range of sports?",
+    "relevant_ids": [
+      30
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "question": "Athletes from around the world are competing for medals representing their home countries across summer and winter events, what event is this?",
+    "relevant_ids": [
+      30
+    ],
+    "category": "scenario"
+  }
+]
